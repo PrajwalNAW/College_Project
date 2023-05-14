@@ -3790,6 +3790,7 @@ tbody.collapse.show {
 }
 
 .nav-link {
+    color: #fff;
     display: block;
     padding: .5rem 1rem;
 }
