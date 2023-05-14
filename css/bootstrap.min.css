@@ -7548,6 +7548,7 @@ a.bg-dark:focus,a.bg-dark:hover,button.bg-dark:focus,button.bg-dark:hover {
 }
 
 .mb-2,.my-2 {
+    color:#fff ;
     margin-bottom: .5rem!important
 }
 
